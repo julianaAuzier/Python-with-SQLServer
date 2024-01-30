@@ -4,7 +4,7 @@ pd.set_option('display.max_columns',1000)
 
 data_conx = (
     'Driver={SQL Server};'
-    'Server=DESKTOP-UJJVFD1\SQLEXPRESS;'
+    'Server=DESKTOP-******\SQLEXPRESS;'
     'Database=AdventureWorks2017;'
     'Trusted_connection=yes;'
 )
